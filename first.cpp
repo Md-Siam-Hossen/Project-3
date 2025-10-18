@@ -7,4 +7,5 @@ int main(){
     cout<<x*y<<endl;
     cout<<"How are you"<<endl;
     cout<<"I want to : "<<endl;
+    cout<<"lorem"<<endl;
 }
