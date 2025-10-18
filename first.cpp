@@ -5,4 +5,5 @@ int main(){
     int x,y;
     cout<<x+y<<endl;
     cout<<x*y<<endl;
+    cout<<"How are you"<<endl;
 }
